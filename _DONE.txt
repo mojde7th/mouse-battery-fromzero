@@ -1,0 +1,32 @@
+DONE — mouse-battery-fromzero
+Date: 2026-09-06
+
+Created / updated files:
+
+D:\workshops\mouse-battery-fromzero\index.html
+D:\workshops\mouse-battery-fromzero\README.md
+D:\workshops\mouse-battery-fromzero\scripts\check-wake.ps1
+D:\workshops\mouse-battery-fromzero\_DONE.txt
+D:\workshops\mouse-battery-fromzero\app.js   (KEY only: mouse-battery-fromzero-read-v1)
+
+Already present (reused, not redesigned):
+
+D:\workshops\mouse-battery-fromzero\app.css
+D:\workshops\mouse-battery-fromzero\app.js
+
+Not touched:
+
+habit-pwa / DailyLog
+No git push
+
+Workshop covers:
+1 Boss conversation context
+2 Architecture ASCII mouse-RF-receiver-USB-Windows
+3 Causes 2024-2026
+4 shutdown / sleep / hibernate / Fast Startup vs mouse drain
+5 alkaline vs lithium vs NiMH
+6 Windows diagnostics (PowerShell, Device Manager, powercfg)
+7 Physical checklist
+8 Boss scripts
+9 Myths vs facts
+10 Homework -> notes.txt
